@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#time{
+    font-size: 35px;
+    margin-right: 20px;
+    float:right;
+}
+
+#sketch_name{
+    color: chartreuse;
+}
+
+
+
+
+
+
+
